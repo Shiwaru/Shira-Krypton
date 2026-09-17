@@ -44,8 +44,7 @@ Hecho con amor y desarrollado por una sola persona, porque los launchers estanda
 - Lanzamiento con Lunar Client (Solo Premium) [Temporalmente deshabilitado]
 - Compilador GraalVM
 - DiscordRPC integrado
-- Tab de mods integrado
-- Tab de modpacks integrado
+- Tab de mods + modpacks integrado (Preview only)
 - Cancelado de lanzamiento
 - Detector de instancias corriendo
 - Opción para mostrar todos los CMD usados
