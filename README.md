@@ -157,7 +157,7 @@ Concepto sin terminar.
 <img src="https://skillicons.dev/icons?i=c,cpp,qt,html,css,js,visualstudio,vscode,cmake,gradle,java" /> <br>
   
   ```
-  C - C++ - Qt 6.10.2 - HTML - CCS - JavaScript - VStudio - VSCode - CMake - Gradle - Java/GraalVM
+  C - C++ - Qt 6.10.2 - Ultralight - HTML - CSS - JavaScript - VStudio - VSCode - CMake - Gradle - Java/GraalVM
   ```
 
 </div>
@@ -165,6 +165,23 @@ Concepto sin terminar.
 
 All Rights Reserved<br>
 Copyright © Shiwaru - Shira Launcher
+
+## Third-Party Licenses
+
+Shira Launcher uses the following libraries, which retain their own licenses:
+
+**Qt 6.10.2** - © The Qt Company Ltd. and contributors. Used under the
+[GNU LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.html), dynamically linked
+and unmodified. The Qt source code is available at
+[code.qt.io](https://code.qt.io/) and [qt.io](https://www.qt.io/download-open-source).
+You may replace the bundled Qt libraries with a compatible version of your own.
+
+**Ultralight** - © Ultralight, Inc. Used under the terms of its license
+([ultralig.ht](https://ultralig.ht/)). Ultralight and the third-party components
+it includes retain their respective licenses.
+
+Nothing in the "All Rights Reserved" notice of Shira Launcher restricts reverse
+engineering that is necessary for debugging modifications to the Qt libraries.
 
 > You're under no obligation to choose a license. However, without a license, the default copyright laws apply, meaning that you retain all rights to your source code and no one may reproduce, distribute, or create derivative works from your work.
 > https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
