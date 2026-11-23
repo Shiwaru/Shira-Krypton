@@ -48,6 +48,7 @@ Hecho con amor y desarrollado por una sola persona, porque los launchers estanda
 - Cancelado de lanzamiento
 - Detector de instancias corriendo
 - Opción para mostrar todos los CMD usados
+- Customización completa (Colores del launcher - Exportar/Importar temas - Cambiar imagen/GIF de fondo)
 ---
 
 ## - Características planeadas -
@@ -69,9 +70,9 @@ Hecho con amor y desarrollado por una sola persona, porque los launchers estanda
 - [X] · `Soporte NeoForge`<br>
 - [X] · `Tab de Mods`<br>
 - [X] · `Tab de Modpacks`<br>
-- [ ] · `Tab de Shaders`<br>
-- [ ] · `Tab de Texturepacks`<br>
-- [ ] · `Gestor de Mods [Habilitar/Deshabilitar Mods]`<br>
+- [X] · `Tab de Shaders`<br>
+- [X] · `Tab de Texturepacks`<br>
+- [X] · `Gestor de Mods [Habilitar/Deshabilitar Mods]`<br>
 - [ ] · `Detector de mods incompatibles (En Desarrollo)`<br>
 - [ ] · `Detector de dependencias faltantes [Mods/Modpacks] (En Desarrollo)`<br>
 - [ ] · `ShiraBoost`<br>
@@ -96,7 +97,6 @@ Hecho con amor y desarrollado por una sola persona, porque los launchers estanda
 - [ ] · `Soporte ZGC`<br>
 - [ ] · `Garbage Collector Adaptativo`<br>
 - [ ] · `Profile Guided Optimization`<br>
-- [ ] · `Windows Timer Resolution`<br>
 - [ ] · `ShiraProfile`<br>
 - [ ] · `Sistema de Fallback Silencioso`<br>
 - [ ] · `ShiraMAX`<br>
